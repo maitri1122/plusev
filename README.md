@@ -34,7 +34,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/pulsegen.git](https://github.com/yourusername/pulsegen.git)
+    git clone 
     cd pulsegen
     ```
 
